@@ -5,5 +5,6 @@ https://medium.com/@eremeykin/how-to-deal-with-hikaricp-connection-leaks-part-2-
 and  
 https://github.com/eremeykin/connection-leak-example
 
+1. Misuse of streaming responses
 2. Misuse of raw connections
 3. Prolonged operations within @Transactional method
